@@ -1,4 +1,4 @@
 # Ares-Dice-Game-Development
-Collab w/Cards N Boards on the development of Ares dice game.
+Collab with Cards N Boards on the development of A. game.
 
 Test text! ☻☺♥
